@@ -7,7 +7,7 @@ pip install dsa-alg
 ```
 
 ### Get started
-How to count the number of words in a sentences:
+Use the Algorithms and datastructures to solve the problem:
 
 ```Python
 from dsa-alg import Search
