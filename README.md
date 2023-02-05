@@ -1,4 +1,4 @@
-# Words Counter
+# DataStructures and Algorithm
 A Python library for performing datastructures and algorithm
 
 ### Installation
