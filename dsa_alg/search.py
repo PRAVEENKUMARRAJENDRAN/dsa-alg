@@ -3,6 +3,9 @@ class Search:
     In Progress
     """
 
+    def __init__(self) -> None:
+        pass
+
     def binarySearch(nums,target):
         l,r = 0, len(nums) - 1
 

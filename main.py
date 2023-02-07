@@ -1,3 +1,3 @@
-from dsa_alg.algorithm import Search
+from dsa_alg import Sorting
 
-print(Search.binarySearch([1,2,3],0))
+print(Sorting.bubbleSort([2,1,10,23]))
